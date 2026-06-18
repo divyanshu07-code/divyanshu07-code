@@ -67,7 +67,8 @@ Full-featured C++ application managing 500+ students, 50+ companies, and complex
 
 **Tech:** C++, OOP, File I/O, Algorithms, Data Structures
 
-📂 **[View Code](https://github.com/divyanshu07-code/Smart-Placement-Portal)**
+👉 **[Run Live via GitHub Codespace](https://codespaces.new/divyanshu07-code/Smart-Placement-Portal)** | 📂 **[View Code](https://github.com/divyanshu07-code/Smart-Placement-Portal)**
+
 
 ---
 
