@@ -1,125 +1,74 @@
-# Hi 👋, I'm Divyanshu
-
-
 <div align="center">
 
-Tech enthusiast & developer building high-performance software and exploring scalable system design.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Divyanshu+%F0%9F%91%8B;ICT+undergrad+%40+DA-IICT;I+build+fast%2C+clean%2C+real+software.;Open+to+internships+%E2%80%94+let's+talk.)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://divyanshu07-code.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshu07code@gmail.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=divyanshu07-code&style=for-the-badge&color=6C63FF)
 
 </div>
 
 ---
 
-## 🎯 Why Me?
+## Why Me?
 
-- 🎓 **B.Tech Undergraduate** — Pursuing Information & Communication Technology at DA-IICT.
-- 💻 **Real Projects** — Not just coursework — built production-grade applications with modern web technologies.
-- 🚀 **Performance Focused** — I care about optimization, efficiency, and writing clean, scalable code.
-- 📚 **Continuously Learning** — Actively mastering core technologies and staying ahead of the software curve.
-  
----
-
-## 💪 Tech Stack
-
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I'm a B.Tech undergrad at DA-IICT studying Information & Communication Technology — but coursework isn't where I spend most of my energy. I build production-grade software: no frameworks as a crutch, no tutorial clones, no filler. I care about performance at the millisecond level, system design that actually scales, and code that solves real problems for real users. If you want someone who ships and learns fast, let's talk.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🎓 Study Tracker Pro
-
-Production-grade web application built with vanilla JavaScript — zero dependencies, maximum performance.
-
-**What Makes It Special:**
-- 60fps animations using HTML5 Canvas rendering
-- Real-time Web Audio synthesis for focus sounds
-- Persistent storage with IndexedDB (scales beyond localStorage)
-- Fully responsive, works offline
-- Less than 50KB footprint
-
-**Tech:** JavaScript, HTML5, CSS3, Web Audio API, IndexedDB, HTML5 Canvas
-
-👉 **[Live Demo](https://divyanshu07-code.github.io/study-tracker-pro/)** | 📂 **[View Code](https://github.com/divyanshu07-code/study-tracker-pro)**
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Study Tracker Pro** | Production web app with 60fps Canvas animations, Web Audio synthesis, IndexedDB persistence, and offline support — all under 50KB, zero dependencies | `JavaScript` `HTML5 Canvas` `Web Audio API` `IndexedDB` `CSS3` | [Live](https://divyanshu07-code.github.io/study-tracker-pro/) · [Code](https://github.com/divyanshu07-code/study-tracker-pro) |
+| **Smart Placement Portal** | C++ system managing 500+ students and 50+ companies with eligibility matching, authentication, and efficient sorting algorithms | `C++` `OOP` `File I/O` `DSA` | [Codespace](https://codespaces.new/divyanshu07-code/Smart-Placement-Portal) · [Code](https://github.com/divyanshu07-code/Smart-Placement-Portal) |
 
 ---
 
-### 🏢 Smart Placement Portal
+## Tech
 
-Full-featured C++ application managing 500+ students, 50+ companies, and complex eligibility matching algorithms.
-
-**What I Learned:**
-- System design at scale (data structures, algorithms, optimization)
-- Handling large datasets with efficient sorting and matching
-- User authentication and data security
-- Building robust software that handles edge cases
-
-**Tech:** C++, OOP, File I/O, Algorithms, Data Structures
-
-👉 **[Run Live via GitHub Codespace](https://codespaces.new/divyanshu07-code/Smart-Placement-Portal)** | 📂 **[View Code](https://github.com/divyanshu07-code/Smart-Placement-Portal)**
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Activity & Growth
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshu07-code&theme=github_dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&text_color=E0E6FC&icon_color=667eea)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshu07-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu07-code&theme=github_dark&layout=compact&hide_border=true&bg_color=0D1117&text_color=E0E6FC)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu07-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu07-code&theme=dark&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=E0E6FC&currStreakLabel=667eea)
+![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu07-code&theme=tokyonight&hide_border=true)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=divyanshu07-code&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Snake animation](https://github.com/divyanshu07-code/divyanshu07-code/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 💡 My Philosophy
+## Philosophy
 
-✅ **Quality over quantity** — I'd rather build 1 great project than 10 mediocre ones
-
-✅ **User-first thinking** — Code should serve real problems
-
-✅ **Performance matters** — Every millisecond counts
-
-✅ **Always learning** — The tech landscape changes fast; so do I
-
-✅ **Open to feedback** — I believe in continuous improvement
+Quality over quantity. Performance over bloat. User problems over interesting tech. I'd rather ship one thing that works exceptionally well than ten things that technically run. The tech landscape moves fast — so do I.
 
 ---
-
-## 📍 Location & Availability
-
-- 🏫 **College:** Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)
-- 📍 **Location:** Gandhinagar, Gujarat, India
-- 💼 **Available for:** Internships, collaborative open-source contributions, and technical challenges
-
----
-
-## 🤝 Let's Connect & Build Together!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-042a36382/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshu07-code)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdivyanshu07@gmail.com)
+📍 **Gandhinagar, Gujarat, India** &nbsp;·&nbsp; 🏫 **DA-IICT** &nbsp;·&nbsp; 💼 **Open to internships & open-source**
 
-<br />
-
-**Ready to contribute. Ready to learn. Ready for the opportunity.**
+*Ready to contribute. Ready to learn. Ready for the opportunity.*
 
 </div>
