@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Divyanshu+%F0%9F%91%8B;ICT+undergrad+%40+DA-IICT;I+build+fast%2C+clean%2C+real+software.;Open+to+internships+%E2%80%94+let's+talk.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Divyanshu+%F0%9F%91%8B;Web+Developer+%26+Problem+Solver;Code+%E2%80%A2+Create+%E2%80%A2+Improve;Building+Skills+Through+Projects;Open+to+Internships)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdivyanshu07@gmail.com)
@@ -11,9 +11,10 @@
 
 ---
 
-## Why Me?
+##  About Me
 
-I'm a B.Tech undergrad at DA-IICT studying Information & Communication Technology — but coursework isn't where I spend most of my energy. I build production-grade software: no frameworks as a crutch, no tutorial clones, no filler. I care about performance at the millisecond level, system design that actually scales, and code that solves real problems for real users. If you want someone who ships and learns fast, let's talk.
+I'm a B.Tech undergraduate at DA-IICT pursuing Information & Communication Technology. I enjoy building software, solving problems, and learning new technologies through hands-on projects. My interests include web development, Data Structures & Algorithms, and creating applications that provide practical value to users.
+
 
 ---
 
@@ -21,12 +22,12 @@ I'm a B.Tech undergrad at DA-IICT studying Information & Communication Technolog
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Study Tracker Pro** | Production web app with 60fps Canvas animations, Web Audio synthesis, IndexedDB persistence, and offline support — all under 50KB, zero dependencies | `JavaScript` `HTML5 Canvas` `Web Audio API` `IndexedDB` `CSS3` | [Live](https://divyanshu07-code.github.io/study-tracker-pro/) · [Code](https://github.com/divyanshu07-code/study-tracker-pro) |
-| **Smart Placement Portal** | C++ system managing 500+ students and 50+ companies with eligibility matching, authentication, and efficient sorting algorithms | `C++` `OOP` `File I/O` `DSA` | [Codespace](https://codespaces.new/divyanshu07-code/Smart-Placement-Portal) · [Code](https://github.com/divyanshu07-code/Smart-Placement-Portal) |
+| **Study Tracker Pro** | A lightweight study tracking web application featuring Canvas animations, offline support, IndexedDB storage, and an interactive user experience. | `JavaScript` `HTML5 Canvas` `Web Audio API` `IndexedDB` `CSS3` | [Live](https://divyanshu07-code.github.io/study-tracker-pro/) · [Code](https://github.com/divyanshu07-code/study-tracker-pro) |
+| **Smart Placement Portal** | Placement management system built using C++ featuring eligibility matching, authentication, file handling, and sorting algorithms. | `C++` `OOP` `File I/O` `DSA` | [Codespace](https://codespaces.new/divyanshu07-code/Smart-Placement-Portal) · [Code](https://github.com/divyanshu07-code/Smart-Placement-Portal) |
 
 ---
 
-## Tech
+## Skills & Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -56,9 +57,9 @@ I'm a B.Tech undergrad at DA-IICT studying Information & Communication Technolog
 
 ---
 
-## Philosophy
+## Learning & Growth
 
-Quality over quantity. Performance over bloat. User problems over interesting tech. I'd rather ship one thing that works exceptionally well than ten things that technically run. The tech landscape moves fast — so do I.
+I enjoy learning by building projects and exploring new technologies. Every project helps me improve my problem-solving, software development, and collaboration skills.
 
 ---
 
