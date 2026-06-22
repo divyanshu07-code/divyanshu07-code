@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Divyanshu+%F0%9F%91%8B;Web+Developer+%26+Problem+Solver;Code+%E2%80%A2+Create+%E2%80%A2+Improve;Building+Skills+Through+Projects;Open+to+Internships)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-042a36382/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdivyanshu07@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=divyanshu07-code&style=for-the-badge&color=6C63FF)
