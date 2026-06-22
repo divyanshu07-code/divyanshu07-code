@@ -52,7 +52,7 @@ I'm a B.Tech undergrad at DA-IICT studying Information & Communication Technolog
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=divyanshu07-code&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Snake animation](https://github.com/divyanshu07-code/divyanshu07-code/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/divyanshu07-code/divyanshu07-code/output/github-contribution-grid-snake.svg)
 
 </div>
 
