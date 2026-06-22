@@ -50,8 +50,6 @@ I'm a B.Tech undergrad at DA-IICT studying Information & Communication Technolog
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu07-code&theme=tokyonight&hide_border=true)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=divyanshu07-code&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Snake animation](https://raw.githubusercontent.com/divyanshu07-code/divyanshu07-code/output/github-contribution-grid-snake.svg)
 
 </div>
