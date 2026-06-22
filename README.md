@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Divyanshu+%F0%9F%91%8B;ICT+undergrad+%40+DA-IICT;I+build+fast%2C+clean%2C+real+software.;Open+to+internships+%E2%80%94+let's+talk.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://divyanshu07-code.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshu07code@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdivyanshu07@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=divyanshu07-code&style=for-the-badge&color=6C63FF)
 
@@ -67,7 +66,7 @@ Quality over quantity. Performance over bloat. User problems over interesting te
 
 <div align="center">
 
-📍 **Gandhinagar, Gujarat, India** &nbsp;·&nbsp; 🏫 **DA-IICT** &nbsp;·&nbsp; 💼 **Open to internships & open-source**
+📍 ** Gujarat, India** &nbsp;·&nbsp; 🏫 **DA-IICT** &nbsp;·&nbsp; 💼 **Open to internships & open-source**
 
 *Ready to contribute. Ready to learn. Ready for the opportunity.*
 
