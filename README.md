@@ -24,12 +24,14 @@ I'm a B.Tech undergraduate at DA-IICT pursuing Information & Communication Techn
 |---|---|---|---|
 | **Study Tracker Pro** | A lightweight study tracking web application featuring Canvas animations, offline support, IndexedDB storage, and an interactive user experience. | `JavaScript` `HTML5 Canvas` `Web Audio API` `IndexedDB` `CSS3` | [Live](https://divyanshu07-code.github.io/study-tracker-pro/) · [Code](https://github.com/divyanshu07-code/study-tracker-pro) |
 | **Smart Placement Portal** | Placement management system built using C++ featuring eligibility matching, authentication, file handling, and sorting algorithms. | `C++` `OOP` `File I/O` `DSA` | [Codespace](https://codespaces.new/divyanshu07-code/Smart-Placement-Portal) · [Code](https://github.com/divyanshu07-code/Smart-Placement-Portal) |
+| **Python Mini Projects** | Collection of Python projects covering automation, algorithms, and practical utilities | `Python` | [💻 Code](https://github.com/divyanshu07-code/Python-Mini-Projects) |
 
 ---
 
 ## Skills & Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -68,5 +70,7 @@ I enjoy learning by building projects and exploring new technologies. Every proj
 📍 ** Gujarat, India** &nbsp;·&nbsp; 🏫 **DA-IICT** &nbsp;·&nbsp; 💼 **Open to internships & open-source**
 
 *Ready to contribute. Ready to learn. Ready for the opportunity.*
+
+⭐ If you find any of my projects useful, consider giving them a star! ⭐
 
 </div>
