@@ -32,15 +32,15 @@ I enjoy building software, solving problems, and learning new technologies throu
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=divyanshu07-code&style=for-the-badge&color=6C63FF)
 
+<td valign="middle" width="45%" align="center">
+
+<br>
+
+<img src="coder-vibing.png"
+     alt="Divyanshu coding & vibing"
+     width="85%" />
+
 </td>
-<td valign="top" width="45%" align="center">
-
-<img src="coder-vibing.svg" alt="Divyanshu coding & vibing" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🚀 Projects
@@ -112,7 +112,7 @@ while (alive) {
 
 📍 **Gujarat, India** &nbsp;·&nbsp; 🏫 **DA-IICT** &nbsp;·&nbsp; 💼 **Open to internships & open-source**
 
-*Ready to contribute. Ready to learn. Ready for the opportunity.*
+Building impactful projects, improving every day, and always open to learning, collaboration, and internship opportunities.
 
 ⭐ If you find any of my projects useful, consider giving them a star! ⭐
 
