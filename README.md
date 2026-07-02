@@ -50,7 +50,7 @@ I enjoy building software, solving problems, and learning new technologies throu
 | **Study Tracker Pro** | Lightweight study tracking web app with Canvas animations, offline support, IndexedDB storage, and interactive UX. | `JavaScript` `HTML5 Canvas` `Web Audio API` `IndexedDB` `CSS3` | [🌐 Live](https://divyanshu07-code.github.io/study-tracker-pro/) · [💻 Code](https://github.com/divyanshu07-code/study-tracker-pro) |
 | **Smart Placement Portal** | Placement management system with eligibility matching, authentication, file handling, and sorting algorithms. | `C++` `OOP` `File I/O` `DSA` | [🖥️ Codespace](https://codespaces.new/divyanshu07-code/Smart-Placement-Portal) · [💻 Code](https://github.com/divyanshu07-code/Smart-Placement-Portal) |
 | **CodeQuest** | Flask-based web app to organize, track, and manage coding practice — problem tracking, auth, progress records, and SQLite storage. | `Python` `Flask` `SQLite` `HTML/CSS/JS` `Gunicorn` | [🌐 Live](https://codequest-me7n.onrender.com/login) · [💻 Code](https://github.com/divyanshu07-code/codequest) |
-| **Sorting Visualizer** | Interactive visualizer for 5 sorting algorithms with real-time animation, speed control & complexity display. | `JavaScript` `HTML5` `CSS3` | [🌐 Live](#) · [💻 Code](#) |
+| **Sorting Visualizer** | Interactive visualizer for 5 sorting algorithms with real-time animation, speed control & complexity display. | `JavaScript` `HTML5` `CSS3` | [🌐 Live](https://sorting-algortihm-analyzer.vercel.app/) · [💻 Code](https://github.com/divyanshu07-code/SORTING-ALGORTIHM-ANALYZER) |
 | **Python Mini Projects** | Collection of Python projects covering automation, algorithms, and practical utilities. | `Python` | [💻 Code](https://github.com/divyanshu07-code/Python-Mini-Projects) |
 
 ---
