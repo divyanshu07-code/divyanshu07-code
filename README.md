@@ -81,7 +81,6 @@ I enjoy building software, solving problems, and learning new technologies throu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshu07-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu07-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%"/>
 
 <img src="https://streak-stats.demolab.com?user=divyanshu07-code&theme=tokyonight&hide_border=true" width="60%"/>
